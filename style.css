@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(201, 24, 112);
+  }
+  
+  .container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family: cursive;
+    font-size: 4rem;
+    color: limegreen;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: limegreen;
+    font-family: cursive;
+  }
+  
+  img {
+    width: 60%;
+  }
+  
+  footer {
+    font-family: cursive;
+    color: maroon;
+    text-align: center;
+    font-style: italic;
+  }
